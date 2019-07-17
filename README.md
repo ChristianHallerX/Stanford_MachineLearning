@@ -1,5 +1,5 @@
 # Stanford_MachineLearning
- Exercise files from Stanford University Machine Learning course.
+ Exercise files from Stanford University Machine Learning course. Run in latest Matlab ($$$) or Octave (free) environment.
  
  Started in July 2019
  
@@ -7,6 +7,6 @@
  
  2. Logistic Regression, Feature Mapping, Regularization, Optimization Functions
  
- 3. ...
+ 3. Multi-class Classification and Neural Networks
  
  4. ...
