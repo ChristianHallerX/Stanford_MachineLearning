@@ -1,6 +1,8 @@
 # Stanford_MachineLearning
  Exercise files from Stanford University Machine Learning course.
  
+ Open Ex*.m file in latest Matlab ($$$) or Octave (free) environment.
+ 
  Started in July 2019
  
  1. Linear Regression with One Variable and Linear Regression with Multiple Variables
