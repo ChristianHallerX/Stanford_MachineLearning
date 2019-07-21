@@ -13,6 +13,8 @@
  
  4. Neural Networks Learning
 
- 5. ...
+ 5. Regularized Linear Regression and Bias v.s. Variance
  
  6. ... 
+ 
+ 7. ...
