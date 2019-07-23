@@ -15,6 +15,8 @@
 
  5. Regularized Linear Regression and Bias v.s. Variance
  
- 6. ... 
+ 6. Support Vector Machine, Email Spam Classifcation
  
  7. ...
+
+ 8. ...
