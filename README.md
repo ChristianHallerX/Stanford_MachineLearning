@@ -9,7 +9,7 @@
  
  2. Logistic Regression, Feature Mapping, Regularization, Optimization Functions
  
- 3. Multi-class Classifcation and Neural Networks
+ 3. Multi-Class Classification and Neural Networks
  
  4. Neural Networks Learning
 
