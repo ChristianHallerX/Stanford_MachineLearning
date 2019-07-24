@@ -17,6 +17,6 @@
  
  6. Support Vector Machine, Email Spam Classifcation
  
- 7. ...
+ 7. K-Means Clustering, PCA dimension eduction
 
  8. ...
