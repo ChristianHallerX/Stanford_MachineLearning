@@ -19,4 +19,4 @@
  
  7. K-Means Clustering, PCA dimension eduction
 
- 8. ...
+ 8. Anomaly Detection, Recommender System (Collaborative Filtering)
